@@ -1,4 +1,4 @@
-# 
+# vip JetBrains Rider for PC | JetBrains Rider for Windows Helper | build-automation + terminal-integration offers the most advanced JetBrains Rider for PC | JetBrains Rider for
 
 
 
